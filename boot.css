@@ -1,16 +1,30 @@
-body{
-    margin: 0;
-    background-color: rgb(194, 194, 194);
+body {
+  margin: 0;
+  background-color: rgb(194, 194, 194);
 }
 
-
-.navbar {
-    background-color: #e8e8e8;
-    font-family: 
-    Roboto
-    "Helvetica Neue"
-    Helvetica
-    Arial
-    sans-serif;
-    font-size: 13px;
+.navbar-primary {
+  display: flex;
+  justify-content: end;
+  padding-right: 10rem;
+  background-color: #e8e8e8;
+  font-family: Roboto "Helvetica Neue" Helvetica Arial sans-serif;
+  font-size: 13px;
 }
+
+.navbar-p {
+  gap: 30px;
+}
+
+.navbar-secondary {
+    color: rgb(0, 47, 255);
+}
+
+.navbar-s{
+   gap: 7rem;
+}
+
+.red-box{
+    color: white;
+}
+  
