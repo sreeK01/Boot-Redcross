@@ -1,8 +1,16 @@
 body{
     margin: 0;
+    background-color: rgb(194, 194, 194);
 }
 
 
-.container{
-    background-color: rgb(193, 193, 193);
+.navbar {
+    background-color: #e8e8e8;
+    font-family: 
+    Roboto
+    "Helvetica Neue"
+    Helvetica
+    Arial
+    sans-serif;
+    font-size: 13px;
 }
