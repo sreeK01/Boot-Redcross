@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background-color: rgb(194, 194, 194);
+  background-color: rgb(223, 223, 223);
 }
 
 .navbar-primary {
@@ -13,7 +13,7 @@ body {
 }
 
 .navbar-p {
-  gap: 30px;
+  gap: 3rem;
 }
 
 .navbar-secondary {
@@ -21,7 +21,9 @@ body {
 }
 
 .navbar-s{
-   gap: 7rem;
+    
+    align-items: center;
+    gap: 7rem;
 }
 
 .red-box{
