@@ -3,3 +3,10 @@ body {
   background-color: rgb(223, 223, 223);
 }
 
+
+.navbar-primary{
+  background-color:#e8e8e8;
+  min-height: 20px;
+ 
+  font-size: 13px;
+}
